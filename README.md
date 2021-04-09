@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning django, react
 - 💞️ I’m looking to collaborate on fullstack projects
-- 📫 How to reach me here
+- 📫 You can reach out to me here
 
 <!---
 Clue355/Clue355 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
