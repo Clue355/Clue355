@@ -1,1 +1,5 @@
-Hello my name is Carlos, I'm interested in full stack development. I finished a one year program teaching software engineering not to long ago and you can find my projects here. Feel free to message me if you have any questions!
+- Hello, my name is Carlos
+- I'm 100% complete with a one year software engineering program
+- I learned front-end, back-end languages, libraries, frameworks, OOP, functional programing and more
+- Look at my projects and tell me what you think
+- Feel free to ask me questions!
