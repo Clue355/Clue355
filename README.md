@@ -15,7 +15,7 @@
 * MongoDB
 
 ## Email
-* dm.carlosluevano@gmail.com
+  dm.carlosluevano@gmail.com
 
 <!-- Logos+Links -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
