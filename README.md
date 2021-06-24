@@ -18,10 +18,5 @@
 * dm.carlosluevano@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-[![Twitter][twitter-shield]][linkedin-url]
-
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/clue355) 
-
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/carlos-luevano/)
 [linkedin-url]: https://www.linkedin.com/in/carlos-luevano/
