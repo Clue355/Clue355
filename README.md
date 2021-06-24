@@ -6,8 +6,7 @@
 - There I learned front-end, back-end languages, libraries, frameworks, OOP and more
 - Look at my projects and tell me what you think
 - Feel free to ask me questions 
-- Email: dm.carlosluevano@gmail.com
+###Email: dm.carlosluevano@gmail.com
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/carlos-luevano/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/clue355) 
-[![](https://img.shields.io/static/v1?label=Email&message=dm.carlosluevano@gmail.com&color=lightgrey)](dm.carlosluevano@gmail.com) 
