@@ -1,8 +1,9 @@
 <h1 align="center"> Hello, I'm Carlos 💻</h1>
 <p align="center">
 [![](https://komarev.com/ghpvc/?username=clue355&color=blue&label=Profile%20Views)](https://github.com/Clue355)
+  </p>
 [![](https://img.shields.io/github/followers/clue355?label=GitHub%20Followers)](https://github.com/Clue355)
-</p>
+
 
 ## About my experiences
 ### Languages
