@@ -14,10 +14,11 @@
 * SQL
 * MongoDB
 
-### Email
+### Contact
   ```sh
   dm.carlosluevano@gmail.com
   ```
+### Social
 <!-- Logos+Links -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][Twitter-shield]][twitter-url]
