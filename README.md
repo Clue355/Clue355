@@ -18,8 +18,6 @@
   ```sh
   dm.carlosluevano@gmail.com
   ```
-  dm.carlosluevano@gmail.com
-
 <!-- Logos+Links -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][Twitter-shield]][twitter-url]
