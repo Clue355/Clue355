@@ -17,11 +17,12 @@
 ## Email
 * dm.carlosluevano@gmail.com
 
+<!-- Logos+Links -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][Twitter-shield]][twitter-url]
-
+<!-- Logos -->
 [twitter-shield]: https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
+<!-- Links -->
 [twitter-url]: https://twitter.com/clue355
 [linkedin-url]: https://www.linkedin.com/in/carlos-luevano/
