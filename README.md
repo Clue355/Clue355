@@ -2,7 +2,10 @@
 [![](https://komarev.com/ghpvc/?username=clue355&color=blue&label=Profile%20Views)](https://github.com/Clue355)
 [![](https://img.shields.io/github/followers/clue355?label=GitHub%20Followers)](https://github.com/Clue355)
 ### About my experiences
-  #### Javascript | #### Python | #### React | #### Django
+  #### Javascript 
+  #### Python
+  #### React
+  #### Django
 
 ### Email: dm.carlosluevano@gmail.com
 
