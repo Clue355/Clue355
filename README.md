@@ -9,6 +9,8 @@
 
 ## About my experiences
 ### Languages
+* HTML
+* CSS
 * Javscript
 * Python
 ### Frameworks/Libraries
