@@ -2,6 +2,11 @@
 
 [![](https://komarev.com/ghpvc/?username=clue355&color=blue&label=Profile%20Views)](https://github.com/Clue355)
 [![](https://img.shields.io/github/followers/clue355?label=GitHub%20Followers)](https://github.com/Clue355)
+
+<a href="https://github.com/Clue355">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=clue355&show_icons=true&theme=light&line_height=32" alt="Carlos's github stats"/>
+</a>
+
 ## About my experiences
 ### Languages
 * Javscript
