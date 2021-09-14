@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/followers/clue355?label=GitHub%20Followers)](https://github.com/Clue355)
 
 <a href="https://github.com/Clue355">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=clue355&show_icons=true&theme=dark&line_height=32" alt="Carlos's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=clue355&show_icons=true&theme=github_dark&line_height=32" alt="Carlos's github stats"/>
 </a>
 
 ## About my experiences
