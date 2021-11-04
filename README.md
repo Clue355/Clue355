@@ -6,6 +6,8 @@
 <a href="https://github.com/Clue355">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=clue355&show_icons=true&theme=github_dark&line_height=32" alt="Carlos's github stats"/>
 </a>
+## My Portfolio
+[Link](https://clue355.github.io/personal_site_v1/)
 
 ## About my experiences
 ### Languages & Libraries/Frameworks
