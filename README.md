@@ -26,10 +26,6 @@
 
 <br />
 
-### Contact
-  ```sh
-  dm.carlosluevano@gmail.com
-  ```
 ### Social
 <!-- Logos+Links -->
 [![Portfolio][Portfolio-shield]][portfolio-url]
