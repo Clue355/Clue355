@@ -1,15 +1,17 @@
 <h1 align="center"> Hello, I'm Carlos 💻</h1>
+<h2 >
+I am a solutions-oriented professional with hands-on
+experience developing front-end of websites and applications in a fast-paced environment.
 
-[![](https://komarev.com/ghpvc/?username=clue355&color=blue&label=Profile%20Views)](https://github.com/Clue355)
+⇨ I leverage technical, analytical, and problem-solving skills to create
+dynamic, high-speed websites, and apps for fueling competitive advantage for the company.
 
-<a href="https://github.com/Clue355">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=clue355&show_icons=true&theme=github_dark&line_height=32" alt="Carlos's github stats"/>
-</a>
+Some of my technical skills are:
 
-## About my experiences
-### Languages & Libraries/Frameworks
+✯ Languages (JavaScript, HTML 5, CSS 3, Java)
 
-## Java | Javascript | HTML | CSS | React.js
+✯ Framework & Libraries (React.js, Next.js)
+</h2>
 
 ### Social
 <!-- Logos+Links -->
