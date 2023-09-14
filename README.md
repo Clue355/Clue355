@@ -9,7 +9,7 @@
 ## About my experiences
 ### Languages & Libraries/Frameworks
 
-Java | Javascript | HTML | CSS | React.js
+## Java | Javascript | HTML | CSS | React.js
 
 <br />
 
