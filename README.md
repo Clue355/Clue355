@@ -8,9 +8,7 @@ dynamic, high-speed websites, and apps for fueling competitive advantage for the
 
 Some of my technical skills are:
 
-✯ Languages (JavaScript, HTML 5, CSS 3, Java)
-
-✯ Framework & Libraries (React.js, Next.js)
+Java | Javascript | HTML | CSS | React.js | 
 </h2>
 
 ### Social
