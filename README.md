@@ -5,7 +5,8 @@ experience developing front-end of websites and applications in a fast-paced env
 
 ⇨ I leverage technical, analytical, and problem-solving skills to create
 dynamic, high-speed websites, and apps for fueling competitive advantage for the company.
-
+</h2>
+<h2>
 Some of my technical skills are:
 
 Java | Javascript | HTML | CSS | React.js | 
