@@ -11,8 +11,6 @@
 
 ## Java | Javascript | HTML | CSS | React.js
 
-<br />
-
 ### Social
 <!-- Logos+Links -->
 [![Portfolio][Portfolio-shield]][portfolio-url]
