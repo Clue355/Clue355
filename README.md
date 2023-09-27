@@ -7,17 +7,16 @@ experience developing front-end of websites and applications in a fast-paced env
 dynamic, high-speed websites, and apps for fueling competitive advantage for the company.
 </h2>
 <h2>
-Some of my technical skills are:
+Some of my technical skills are
 
 Java | Javascript | HTML | CSS | React.js | 
 </h2>
 
 ### Social
-<!-- Logos+Links -->
+<!-- Logos and Links -->
 [![Portfolio][Portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][Twitter-shield]][twitter-url]
-<!-- [![Portfolio][Portfolio-shield]][Portfolio-url] -->
 
 <!-- Logos -->
 [twitter-shield]: https://img.shields.io/badge/%20-@clue355-black?color=555&labelColor=00acee&logo=twitter&logoColor=ffffff
@@ -30,5 +29,4 @@ Java | Javascript | HTML | CSS | React.js |
 [portfolio-url]: https://carlosluevano.netlify.app/
 [twitter-url]: https://twitter.com/clue355
 [linkedin-url]: https://www.linkedin.com/in/carlos-luevano/
-<!-- [Portfolio-url]: https://www.linkedin.com/in/carlos-luevano/ -->
 
