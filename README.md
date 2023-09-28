@@ -1,18 +1,18 @@
-<h1 align="center"> Hello, I'm Carlos 💻</h1>
-<h2 >
+<p align="center"> <b> Hello, I'm Carlos 💻 </b></p>
+
 I am a solutions-oriented professional with hands-on
 experience developing front-end of websites and applications in a fast-paced environment.
 
 ⇨ I leverage technical, analytical, and problem-solving skills to create
 dynamic, high-speed websites, and apps for fueling competitive advantage for the company.
-</h2>
-<h2>
+
+
 Some of my technical skills are
 
 Java | Javascript | HTML | CSS | React.js | 
-</h2>
 
-### Social
+
+Social
 <!-- Logos and Links -->
 [![Portfolio][Portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
