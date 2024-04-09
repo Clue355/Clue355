@@ -1,11 +1,8 @@
 # <p align="center"> <b> Hello, I'm Carlos 💻 </b></p>
 
 
-I am a solutions-oriented professional with hands-on
-experience developing front-end of websites and applications in a fast-paced environment.
+As an experienced web developer who's worked with a variety of teams, I'm ready to bring my skills to new projects. If you're looking for a developer who can contribute effectively to your team, don't hesitate to contact me on my social media profiles.
 
-⇨ I leverage technical, analytical, and problem-solving skills to create
-dynamic, high-speed websites, and apps for fueling competitive advantage for the company.
 
 
 ## My technical skills are
