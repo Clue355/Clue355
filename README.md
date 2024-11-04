@@ -1,7 +1,7 @@
 # <p align="center"> <b> Hello, I'm Carlos 💻 </b></p>
 
 
-As an experienced web developer who's worked with a variety of teams, I'm ready to bring my skills to new projects. If you're looking for a developer who can contribute effectively to your team, don't hesitate to contact me on my social media profiles.
+I'm a web developer with experience across different teams and projects. I enjoy working with HTML, CSS, JavaScript, Java, React, and Docker, and I'm always up for learning something new. If you're looking for someone who can jump in and make a difference on your team, feel free to reach out.
 
 
 
