@@ -3,8 +3,7 @@
 
 Hi I'm Carlos, I'm a full stack developer based in Texas.
 
-I like making websites profitable for businesses by combining my knowledge on design, seo, accessibility. What makes me excited is building scalable web apps that are efficient and easy to use. 
-
+I like making websites profitable for businesses by combining my knowledge on design, seo, accessibility.
 Outside of work I like exploring what the latest popular software and tech to help build better applications. 
 
 
